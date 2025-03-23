@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-d2-version="v0.6.9-HEAD" preserveAspectRatio="xMidYMid meet" viewBox="0 0 372 621">
+<svg class="d2-490271512 d2-svg" width="372" height="621" viewBox="-95 -101 372 621">
+
+<!-- Fons blanc i de dimensions concretes -->
+<rect x="-95.000000" y="-101.000000" width="372.000000" height="621.000000" rx="0.000000" fill="#FFFFFF" class=" fill-N7" stroke-width="0" /> 
+
+<!-- Canvi de tipografia -->
+<style type="text/css">
+<![CDATA[
+.d2-490271512 .text-bold {
+	font-family: "d2-490271512-font-bold";
+}
+@font-face {
+	font-family: d2-490271512-font-bold;
+	src: url("data:application/font-woff;base64,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");
+}
+.d2-490271512 .text-italic {
+	font-family: "d2-490271512-font-italic";
+}
+@font-face {
+	font-family: d2-490271512-font-italic;
+	src: url("data:application/font-woff;base64,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");
+}]]>
+</style>
+
+<!-- Tipus de punta de fletxa per les connexions -->
+<marker id="arrow-tip-style-1" markerWidth="10.000000" markerHeight="12.000000" refX="7.000000" refY="6.000000" viewBox="0.000000 0.000000 10.000000 12.000000" orient="auto" markerUnits="userSpaceOnUse"> 
+    <polygon points="0.000000,0.000000 10.000000,6.000000 0.000000,12.000000" fill="#0D32B2" class="connection fill-B1" stroke-width="2" /> 
+</marker>
+
+<!-- Requadre transparent pel text de les connexions -->
+<mask id="connection-label-rectangle" maskUnits="userSpaceOnUse" x="-95" y="-101" width="372" height="621">
+    <rect x="-95" y="-101" width="372" height="621" fill="white"></rect>
+    <rect x="89.500000" y="22.500000" width="8" height="21" fill="rgba(0,0,0,0.75)"></rect>
+    <rect x="32.500000" y="209.500000" width="9" height="21" fill="rgba(0,0,0,0.75)"></rect>
+    <rect x="146.500000" y="209.500000" width="7" height="21" fill="rgba(0,0,0,0.75)"></rect>
+    <rect x="33.500000" y="375.500000" width="8" height="21" fill="rgba(0,0,0,0.75)"></rect>
+    <rect x="5.000000" y="112.000000" width="74" height="21" fill="black"></rect>
+</mask>
+
+<!-- Transició d'opacitat (cridada des del <script> del final) -->
+<style>
+    .hidden { opacity: 0.2; transition: opacity 0.3s; }
+    .diagram-node, .diagram-connection { transition: opacity 0.3s; }
+</style>
+
+<!-- _______________________ELEMENTS DEL DIAGRAMA_________________ -->
+
+<!-- 1r Node (x) -->
+<g class="diagram-node" id="node-x">
+    <!-- Caixa -->
+    <g class="shape" > 
+        <rect x="67.000000" y="0.000000" width="53.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" />
+    </g>
+    <!-- Etiqueta -->
+    <text x="93.500000" y="38.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">
+        x
+    </text>
+</g>
+
+<!-- 2n Node (y) -->
+<g class="diagram-node" id="node-y">
+    <!-- Caixa -->
+    <g class="shape" >
+        <rect x="10.000000" y="187.000000" width="54.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" />
+    </g>
+    <!-- Etiqueta -->
+    <text x="37.000000" y="225.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">
+        y
+    </text>
+</g>
+
+<!-- 3r Node (z) -->
+<g class="diagram-node" id="node-z">
+    <!-- Caixa -->
+    <g class="shape" >
+        <rect x="124.000000" y="187.000000" width="52.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" />
+    </g>
+    <!-- Etiqueta -->
+    <text x="150.000000" y="225.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">
+        z
+    </text>
+</g>
+
+<!-- 4t Node (a) -->
+<g class="diagram-node" id="node-a">
+    <!-- Caixa -->
+    <g class="shape" >
+        <rect x="11.000000" y="353.000000" width="53.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" />
+    </g>
+    <!-- Etiqueta -->
+    <text x="37.500000" y="391.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">
+        a
+    </text>
+</g>
+
+<!-- 1a connexió x-y -->
+<g class="diagram-connection" id="connection-x-y" data-from="node-x" data-to="node-y">
+    <path d="M 72.962775 67.210019 C 44.400002 114.300003 37.000000 138.699997 37.000000 183.500000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#arrow-tip-style-1)" mask="url(#connection-label-rectangle)" />
+    <!-- Text de la connexió x-y -->
+    <text x="42.000000" y="128.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">
+        hello world
+    </text>
+</g>
+
+<!-- 1a connexió x-z -->
+<g class="diagram-connection" id="connection-x-z" data-from="node-x" data-to="node-z">
+    <path d="M 114.037225 67.210019 C 142.600006 114.300003 150.000000 138.699997 150.000000 183.500000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#arrow-tip-style-1)" mask="url(#connection-label-rectangle)" />
+</g>
+
+<!-- 1a connexió y-a -->
+<g class="diagram-connection" id="connection-y-a" data-from="node-y" data-to="node-a">
+    <path d="M 37.000000 255.000000 C 37.000000 293.000000 37.000000 313.000000 37.000000 349.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#arrow-tip-style-1)" mask="url(#connection-label-rectangle)" />
+</g>
+
+<script>
+    function highlightNode(nodeId) {
+        let neighbors = new Set([nodeId]);
+        let visibleConnections = new Set();
+        
+        document.querySelectorAll(".diagram-connection").forEach(connection => {
+            let from = connection.getAttribute("data-from");
+            let to = connection.getAttribute("data-to");
+            
+            if (from === nodeId) {
+                neighbors.add(to);
+                visibleConnections.add(connection.id);
+            }
+            if (to === nodeId) {
+                neighbors.add(from);
+                visibleConnections.add(connection.id);
+            }
+        });
+        
+        document.querySelectorAll(".diagram-node").forEach(node => {
+            if (!neighbors.has(node.id)) {
+                node.classList.add("hidden");
+            }
+        });
+        
+        document.querySelectorAll(".diagram-connection").forEach(connection => {
+            if (!visibleConnections.has(connection.id)) {
+                connection.classList.add("hidden");
+            }
+        });
+    }
+
+    function resetHighlight() {
+        document.querySelectorAll(".diagram-node, .diagram-connection").forEach(element => {
+            element.classList.remove("hidden");
+        });
+    }
+
+    document.querySelectorAll(".diagram-node").forEach(node => {
+        node.addEventListener("mouseover", function() { highlightNode(this.id); });
+        node.addEventListener("mouseout", function() { resetHighlight(); });
+    });
+</script>
+</svg>
+</svg>
