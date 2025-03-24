@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-d2-version="v0.6.9-HEAD" preserveAspectRatio="xMidYMid meet" viewBox="0 0 597 1098"><svg class="d2-2256084767 d2-svg" width="597" height="1098" viewBox="-101 -101 597 1098"><rect x="-101.000000" y="-101.000000" width="597.000000" height="1098.000000" rx="0.000000" fill="#FFFFFF" class=" fill-N7" stroke-width="0" /><style type="text/css"><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+<title>SVG example-test 2</title>
+</head>
+
+<body>
+	<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-d2-version="v0.6.9-HEAD" preserveAspectRatio="xMidYMid meet" viewBox="0 0 597 1098"><svg class="d2-2256084767 d2-svg" width="597" height="1098" viewBox="-101 -101 597 1098"><rect x="-101.000000" y="-101.000000" width="597.000000" height="1098.000000" rx="0.000000" fill="#FFFFFF" class=" fill-N7" stroke-width="0" /><style type="text/css"><![CDATA[
 .d2-2256084767 .text-bold {
 	font-family: "d2-2256084767-font-bold";
 }
@@ -102,3 +109,124 @@
 <rect x="224.500000" y="686.500000" width="9" height="21" fill="rgba(0,0,0,0.75)"></rect>
 </mask>
 </svg></svg>
+
+<script>
+	// Opacity transition (global style)
+    var style = document.createElementNS("http://www.w3.org/2000/svg", "style");
+    style.textContent = `
+        .hidden { opacity: 0.2; transition: opacity 0.3s; }
+        .diagram-node, .diagram-connection { transition: opacity 0.3s; }
+    `;
+    document.currentScript.parentElement.appendChild(style);
+
+	// Make the SVG more readable (classes and IDs)
+    function processSVG() {
+		document.querySelectorAll("g").forEach(element => {
+			let className = element.getAttribute("class");
+			if (!className || className === "shape") return;
+
+			// Change base64 class to ID
+			element.setAttribute("id", className);
+
+			// If it starts with parentesis '(' it's a connection, if not it's probably a node
+			const validPrefixes = ["KA", "KB", "KC", "KD", "KE", "KF", "KG", "KH", "KI", "KJ", "KK", "KL", "KM", "KN", "KO", "KP"];
+			if (validPrefixes.some(prefix => className.startsWith(prefix))) {
+				element.setAttribute("class", "diagram-connection");
+			} else {
+				element.setAttribute("class", "diagram-node");
+			}
+		});
+	}
+
+    function highlightNode(nodeId) {
+        let neighbors = new Set([nodeId]);
+        let visibleConnections = new Set();
+		let connectionTypes = new Set();
+
+        document.querySelectorAll(".diagram-connection").forEach(connection => {
+            let connectionId = connection.getAttribute("id");
+            let parsed = parseConnectionID(connectionId);
+            if (!parsed) return;
+
+            // We check if our node is at the beggining or end of this current connection
+            if (parsed.startNode === nodeId || parsed.endNode === nodeId) {
+                visibleConnections.add(connectionId);
+				connectionTypes.add(parsed.connectionType);
+				// If it is present, it means the other node is a neighbor
+                neighbors.add(parsed.startNode);
+                neighbors.add(parsed.endNode);
+				// Note: with this we'll have our node also present in the nighbor set. That is actually good, because it simplifies the visibilty condition.
+            }
+        });
+		console.log("Selected node:", nodeId, " | ", "Neighbors:", neighbors, " | ", "Connection types:", connectionTypes);
+
+        document.querySelectorAll(".diagram-node").forEach(node => {
+            const id = node.getAttribute("id");
+            if (!neighbors.has(id)) {
+                node.classList.add("hidden"); // If it's not a neighbor, it must be hidden.
+            } else {
+                node.classList.remove("hidden");
+            }
+        });
+
+        document.querySelectorAll(".diagram-connection").forEach(connection => {
+            const id = connection.getAttribute("id");
+            if (!visibleConnections.has(id)) {
+                connection.classList.add("hidden");
+            } else {
+                connection.classList.remove("hidden");
+            }
+        });
+    }
+
+    function resetHighlight() {
+        document.querySelectorAll(".diagram-node, .diagram-connection").forEach(element => {
+            element.classList.remove("hidden");
+        });
+    }
+
+    function parseConnectionID(base64ID) {
+		// We extract from the encoded base64 ID the main 3 important things:
+		// 1. Initial node 2. Final node 3. Connection type
+		// Later on for cases with more arrows between the same nodes. This needs to be changed to store the number of the arrow as well.
+        try {
+            const decodedID = atob(base64ID);
+            const match = decodedID.match(/^\((.*?)\)\[\d+\]$/);
+            if (!match) return null;
+
+            const connectionMatch = match[1].match(/(.+?) (.+?) (.+)/);
+            if (!connectionMatch) return null;
+
+            const startNode = connectionMatch[1];
+            const connectionType = connectionMatch[2];
+            const endNode = connectionMatch[3];
+
+            return {
+                startNode: btoa(startNode),
+                endNode: btoa(endNode),
+                connectionType: connectionType
+            };
+        } catch (e) {
+            return null;
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        processSVG();
+        document.querySelectorAll(".diagram-node").forEach(node => {
+			// Check if a node is hovered over
+            node.addEventListener("mouseover", function() { highlightNode(this.id); });
+            node.addEventListener("mouseout", function() { resetHighlight(); });
+        });
+    });
+</script>
+
+</body>
+
+</html> 
+
+
+
+
+
+
