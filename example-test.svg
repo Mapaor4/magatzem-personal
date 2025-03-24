@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-d2-version="v0.6.9-HEAD" preserveAspectRatio="xMidYMid meet" viewBox="0 0 597 1098"><svg class="d2-2256084767 d2-svg" width="597" height="1098" viewBox="-101 -101 597 1098"><rect x="-101.000000" y="-101.000000" width="597.000000" height="1098.000000" rx="0.000000" fill="#FFFFFF" class=" fill-N7" stroke-width="0" /><style type="text/css"><![CDATA[
+.d2-2256084767 .text-bold {
+	font-family: "d2-2256084767-font-bold";
+}
+@font-face {
+	font-family: d2-2256084767-font-bold;
+	src: url("data:application/font-woff;base64,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");
+}]]></style><style type="text/css"><![CDATA[.shape {
+  shape-rendering: geometricPrecision;
+  stroke-linejoin: round;
+}
+.connection {
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.blend {
+  mix-blend-mode: multiply;
+  opacity: 0.5;
+}
+
+		.d2-2256084767 .fill-N1{fill:#0A0F25;}
+		.d2-2256084767 .fill-N2{fill:#676C7E;}
+		.d2-2256084767 .fill-N3{fill:#9499AB;}
+		.d2-2256084767 .fill-N4{fill:#CFD2DD;}
+		.d2-2256084767 .fill-N5{fill:#DEE1EB;}
+		.d2-2256084767 .fill-N6{fill:#EEF1F8;}
+		.d2-2256084767 .fill-N7{fill:#FFFFFF;}
+		.d2-2256084767 .fill-B1{fill:#0D32B2;}
+		.d2-2256084767 .fill-B2{fill:#0D32B2;}
+		.d2-2256084767 .fill-B3{fill:#E3E9FD;}
+		.d2-2256084767 .fill-B4{fill:#E3E9FD;}
+		.d2-2256084767 .fill-B5{fill:#EDF0FD;}
+		.d2-2256084767 .fill-B6{fill:#F7F8FE;}
+		.d2-2256084767 .fill-AA2{fill:#4A6FF3;}
+		.d2-2256084767 .fill-AA4{fill:#EDF0FD;}
+		.d2-2256084767 .fill-AA5{fill:#F7F8FE;}
+		.d2-2256084767 .fill-AB4{fill:#EDF0FD;}
+		.d2-2256084767 .fill-AB5{fill:#F7F8FE;}
+		.d2-2256084767 .stroke-N1{stroke:#0A0F25;}
+		.d2-2256084767 .stroke-N2{stroke:#676C7E;}
+		.d2-2256084767 .stroke-N3{stroke:#9499AB;}
+		.d2-2256084767 .stroke-N4{stroke:#CFD2DD;}
+		.d2-2256084767 .stroke-N5{stroke:#DEE1EB;}
+		.d2-2256084767 .stroke-N6{stroke:#EEF1F8;}
+		.d2-2256084767 .stroke-N7{stroke:#FFFFFF;}
+		.d2-2256084767 .stroke-B1{stroke:#0D32B2;}
+		.d2-2256084767 .stroke-B2{stroke:#0D32B2;}
+		.d2-2256084767 .stroke-B3{stroke:#E3E9FD;}
+		.d2-2256084767 .stroke-B4{stroke:#E3E9FD;}
+		.d2-2256084767 .stroke-B5{stroke:#EDF0FD;}
+		.d2-2256084767 .stroke-B6{stroke:#F7F8FE;}
+		.d2-2256084767 .stroke-AA2{stroke:#4A6FF3;}
+		.d2-2256084767 .stroke-AA4{stroke:#EDF0FD;}
+		.d2-2256084767 .stroke-AA5{stroke:#F7F8FE;}
+		.d2-2256084767 .stroke-AB4{stroke:#EDF0FD;}
+		.d2-2256084767 .stroke-AB5{stroke:#F7F8FE;}
+		.d2-2256084767 .background-color-N1{background-color:#0A0F25;}
+		.d2-2256084767 .background-color-N2{background-color:#676C7E;}
+		.d2-2256084767 .background-color-N3{background-color:#9499AB;}
+		.d2-2256084767 .background-color-N4{background-color:#CFD2DD;}
+		.d2-2256084767 .background-color-N5{background-color:#DEE1EB;}
+		.d2-2256084767 .background-color-N6{background-color:#EEF1F8;}
+		.d2-2256084767 .background-color-N7{background-color:#FFFFFF;}
+		.d2-2256084767 .background-color-B1{background-color:#0D32B2;}
+		.d2-2256084767 .background-color-B2{background-color:#0D32B2;}
+		.d2-2256084767 .background-color-B3{background-color:#E3E9FD;}
+		.d2-2256084767 .background-color-B4{background-color:#E3E9FD;}
+		.d2-2256084767 .background-color-B5{background-color:#EDF0FD;}
+		.d2-2256084767 .background-color-B6{background-color:#F7F8FE;}
+		.d2-2256084767 .background-color-AA2{background-color:#4A6FF3;}
+		.d2-2256084767 .background-color-AA4{background-color:#EDF0FD;}
+		.d2-2256084767 .background-color-AA5{background-color:#F7F8FE;}
+		.d2-2256084767 .background-color-AB4{background-color:#EDF0FD;}
+		.d2-2256084767 .background-color-AB5{background-color:#F7F8FE;}
+		.d2-2256084767 .color-N1{color:#0A0F25;}
+		.d2-2256084767 .color-N2{color:#676C7E;}
+		.d2-2256084767 .color-N3{color:#9499AB;}
+		.d2-2256084767 .color-N4{color:#CFD2DD;}
+		.d2-2256084767 .color-N5{color:#DEE1EB;}
+		.d2-2256084767 .color-N6{color:#EEF1F8;}
+		.d2-2256084767 .color-N7{color:#FFFFFF;}
+		.d2-2256084767 .color-B1{color:#0D32B2;}
+		.d2-2256084767 .color-B2{color:#0D32B2;}
+		.d2-2256084767 .color-B3{color:#E3E9FD;}
+		.d2-2256084767 .color-B4{color:#E3E9FD;}
+		.d2-2256084767 .color-B5{color:#EDF0FD;}
+		.d2-2256084767 .color-B6{color:#F7F8FE;}
+		.d2-2256084767 .color-AA2{color:#4A6FF3;}
+		.d2-2256084767 .color-AA4{color:#EDF0FD;}
+		.d2-2256084767 .color-AA5{color:#F7F8FE;}
+		.d2-2256084767 .color-AB4{color:#EDF0FD;}
+		.d2-2256084767 .color-AB5{color:#F7F8FE;}.appendix text.text{fill:#0A0F25}.md{--color-fg-default:#0A0F25;--color-fg-muted:#676C7E;--color-fg-subtle:#9499AB;--color-canvas-default:#FFFFFF;--color-canvas-subtle:#EEF1F8;--color-border-default:#0D32B2;--color-border-muted:#0D32B2;--color-neutral-muted:#EEF1F8;--color-accent-fg:#0D32B2;--color-accent-emphasis:#0D32B2;--color-attention-subtle:#676C7E;--color-danger-fg:red;}.sketch-overlay-B1{fill:url(#streaks-darker-d2-2256084767);mix-blend-mode:lighten}.sketch-overlay-B2{fill:url(#streaks-darker-d2-2256084767);mix-blend-mode:lighten}.sketch-overlay-B3{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-B4{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-B5{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-B6{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-AA2{fill:url(#streaks-dark-d2-2256084767);mix-blend-mode:overlay}.sketch-overlay-AA4{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-AA5{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-AB4{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-AB5{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-N1{fill:url(#streaks-darker-d2-2256084767);mix-blend-mode:lighten}.sketch-overlay-N2{fill:url(#streaks-dark-d2-2256084767);mix-blend-mode:overlay}.sketch-overlay-N3{fill:url(#streaks-normal-d2-2256084767);mix-blend-mode:color-burn}.sketch-overlay-N4{fill:url(#streaks-normal-d2-2256084767);mix-blend-mode:color-burn}.sketch-overlay-N5{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-N6{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.sketch-overlay-N7{fill:url(#streaks-bright-d2-2256084767);mix-blend-mode:darken}.light-code{display: block}.dark-code{display: none}]]></style><g class="eA=="><g class="shape" ><rect x="146.000000" y="0.000000" width="53.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="172.500000" y="38.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">x</text></g><g class="eQ=="><g class="shape" ><rect x="191.000000" y="166.000000" width="54.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="218.000000" y="204.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">y</text></g><g class="eg=="><g class="shape" ><rect x="237.000000" y="332.000000" width="52.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="263.000000" y="370.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">z</text></g><g class="YQ=="><g class="shape" ><rect x="191.000000" y="498.000000" width="53.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="217.500000" y="536.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">a</text></g><g class="Yg=="><g class="shape" ><rect x="280.000000" y="830.000000" width="53.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="306.500000" y="868.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">b</text></g><g class="Yw=="><g class="shape" ><rect x="0.000000" y="664.000000" width="53.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="26.500000" y="702.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">c</text></g><g class="cQ=="><g class="shape" ><rect x="77.000000" y="166.000000" width="54.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="104.000000" y="204.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">q</text></g><g class="Zg=="><g class="shape" ><rect x="304.000000" y="498.000000" width="51.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="329.500000" y="536.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">f</text></g><g class="Zw=="><g class="shape" ><rect x="202.000000" y="664.000000" width="54.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="229.000000" y="702.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">g</text></g><g class="KHggLSZndDsgeSlbMF0="><marker id="mk-d2-2256084767-3488378134" markerWidth="10.000000" markerHeight="12.000000" refX="7.000000" refY="6.000000" viewBox="0.000000 0.000000 10.000000 12.000000" orient="auto" markerUnits="userSpaceOnUse"> <polygon points="0.000000,0.000000 10.000000,6.000000 0.000000,12.000000" fill="#0D32B2" class="connection fill-B1" stroke-width="2" /> </marker><path d="M 191.450298 67.759811 C 212.100006 106.000000 217.500000 126.000000 217.500000 162.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#mk-d2-2256084767-3488378134)" mask="url(#d2-2256084767)" /></g><g class="KHkgLS0geilbMF0="><path d="M 217.500000 234.000000 C 217.500000 272.000000 222.899994 292.000000 243.549702 330.240189" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" mask="url(#d2-2256084767)" /></g><g class="KHggJmx0Oy0mZ3Q7IHopWzBd"><marker id="mk-d2-2256084767-2451250203" markerWidth="10.000000" markerHeight="12.000000" refX="3.000000" refY="6.000000" viewBox="0.000000 0.000000 10.000000 12.000000" orient="auto" markerUnits="userSpaceOnUse"> <polygon points="10.000000,0.000000 0.000000,6.000000 10.000000,12.000000" fill="#0D32B2" class="connection fill-B1" stroke-width="2" /> </marker><path d="M 202.628359 46.683749 C 321.399994 101.800003 352.000000 132.600006 352.000000 157.500000 C 352.000000 182.399994 339.399994 293.799988 291.919593 338.265777" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-start="url(#mk-d2-2256084767-2451250203)" marker-end="url(#mk-d2-2256084767-3488378134)" mask="url(#d2-2256084767)" /></g><g class="KGEgJmx0Oy0gYilbMF0="><path d="M 246.998046 561.906586 C 285.850006 603.000000 296.250000 630.599976 296.250000 655.500000 C 296.250000 680.400024 297.450012 790.000000 302.011710 828.014246" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-start="url(#mk-d2-2256084767-2451250203)" mask="url(#d2-2256084767)" /></g><g class="KGIgLSZndDsgeSlbMF0="><path d="M 334.951633 836.910234 C 382.700012 791.656982 395.000000 763.400024 395.000000 738.500000 C 395.000000 713.599976 395.000000 680.400024 395.000000 655.500000 C 395.000000 630.599976 395.000000 597.400024 395.000000 572.500000 C 395.000000 547.599976 395.000000 514.400024 395.000000 489.500000 C 395.000000 464.600006 395.000000 431.399994 395.000000 406.500000 C 395.000000 381.600006 365.000000 268.000000 248.624733 213.691542" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#mk-d2-2256084767-3488378134)" mask="url(#d2-2256084767)" /></g><g class="KGEgLSZndDsgYylbMF0="><path d="M 188.901741 542.720152 C 51.348999 599.591003 17.700001 624.000000 22.023419 660.028493" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#mk-d2-2256084767-3488378134)" mask="url(#d2-2256084767)" /></g><g class="KGMgLSZndDsgYilbMF0="><path d="M 26.500000 732.000000 C 26.500000 770.000000 77.099998 795.026001 275.665498 853.991324" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#mk-d2-2256084767-3488378134)" mask="url(#d2-2256084767)" /></g><g class="KGMgLS0geClbMF0="><path d="M 30.738290 662.014246 C 35.299999 624.000000 36.500000 597.400024 36.500000 572.500000 C 36.500000 547.599976 36.500000 514.400024 36.500000 489.500000 C 36.500000 464.600006 36.500000 431.399994 36.500000 406.500000 C 36.500000 381.600006 36.500000 348.399994 36.500000 323.500000 C 36.500000 298.600006 36.500000 265.399994 36.500000 240.500000 C 36.500000 215.600006 58.349998 102.639999 144.043670 50.245282" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" mask="url(#d2-2256084767)" /></g><g class="KHggLSZndDsgcSlbMF0="><path d="M 144.474181 66.532219 C 111.948997 105.797997 103.500000 126.000000 103.500000 162.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#mk-d2-2256084767-3488378134)" mask="url(#d2-2256084767)" /></g><g class="KGEgJmx0Oy0geilbMF0="><path d="M 217.250000 494.000000 C 217.250000 458.000000 222.649994 438.000000 243.299702 399.759811" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-start="url(#mk-d2-2256084767-2451250203)" mask="url(#d2-2256084767)" /></g><g class="KHogLS0gZilbMF0="><path d="M 290.499390 399.561738 C 321.250000 438.000000 329.250000 458.000000 329.250000 496.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" mask="url(#d2-2256084767)" /></g><g class="KGYgLSZndDsgZylbMF0="><path d="M 302.211038 553.442317 C 244.149994 601.632996 229.250000 624.000000 229.250000 660.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:2;" marker-end="url(#mk-d2-2256084767-3488378134)" mask="url(#d2-2256084767)" /></g><mask id="d2-2256084767" maskUnits="userSpaceOnUse" x="-101" y="-101" width="597" height="1098">
+<rect x="-101" y="-101" width="597" height="1098" fill="white"></rect>
+<rect x="168.500000" y="22.500000" width="8" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="213.500000" y="188.500000" width="9" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="259.500000" y="354.500000" width="7" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="213.500000" y="520.500000" width="8" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="302.500000" y="852.500000" width="8" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="22.500000" y="686.500000" width="8" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="99.500000" y="188.500000" width="9" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="326.500000" y="520.500000" width="6" height="21" fill="rgba(0,0,0,0.75)"></rect>
+<rect x="224.500000" y="686.500000" width="9" height="21" fill="rgba(0,0,0,0.75)"></rect>
+</mask>
+
+<script>
+	// Opacity transition (global style)
+    var style = document.createElementNS("http://www.w3.org/2000/svg", "style");
+    style.textContent = `
+        .hidden { opacity: 0.2; transition: opacity 0.3s; }
+        .diagram-node, .diagram-connection { transition: opacity 0.3s; }
+    `;
+    document.currentScript.parentElement.appendChild(style);
+
+	// Make the SVG more readable (classes and IDs)
+    function processSVG() {
+		document.querySelectorAll("g").forEach(element => {
+			let className = element.getAttribute("class");
+			if (!className || className === "shape") return;
+
+			// Change base64 class to ID
+			element.setAttribute("id", className);
+
+			// If it starts with parentesis '(' it's a connection, if not it's probably a node
+			const validPrefixes = ["KA", "KB", "KC", "KD", "KE", "KF", "KG", "KH", "KI", "KJ", "KK", "KL", "KM", "KN", "KO", "KP"];
+			if (validPrefixes.some(prefix => className.startsWith(prefix))) {
+				element.setAttribute("class", "diagram-connection");
+			} else {
+				element.setAttribute("class", "diagram-node");
+			}
+		});
+	}
+
+    function highlightNode(nodeId) {
+        let neighbors = new Set([nodeId]);
+        let visibleConnections = new Set();
+		let connectionTypes = new Set();
+
+        document.querySelectorAll(".diagram-connection").forEach(connection => {
+            let connectionId = connection.getAttribute("id");
+            let parsed = parseConnectionID(connectionId);
+            if (!parsed) return;
+
+            // We check if our node is at the beggining or end of this current connection
+            if (parsed.startNode === nodeId || parsed.endNode === nodeId) {
+                visibleConnections.add(connectionId);
+				connectionTypes.add(parsed.connectionType);
+				// If it is present, it means the other node is a neighbor
+                neighbors.add(parsed.startNode);
+                neighbors.add(parsed.endNode);
+				// Note: with this we'll have our node also present in the nighbor set. That is actually good, because it simplifies the visibilty condition.
+            }
+        });
+		console.log("Selected node:", nodeId, " | ", "Neighbors:", neighbors, " | ", "Connection types:", connectionTypes);
+
+        document.querySelectorAll(".diagram-node").forEach(node => {
+            const id = node.getAttribute("id");
+            if (!neighbors.has(id)) {
+                node.classList.add("hidden"); // If it's not a neighbor, it must be hidden.
+            } else {
+                node.classList.remove("hidden");
+            }
+        });
+
+        document.querySelectorAll(".diagram-connection").forEach(connection => {
+            const id = connection.getAttribute("id");
+            if (!visibleConnections.has(id)) {
+                connection.classList.add("hidden");
+            } else {
+                connection.classList.remove("hidden");
+            }
+        });
+    }
+
+    function resetHighlight() {
+        document.querySelectorAll(".diagram-node, .diagram-connection").forEach(element => {
+            element.classList.remove("hidden");
+        });
+    }
+
+    function parseConnectionID(base64ID) {
+		// We extract from the encoded base64 ID the main 3 important things:
+		// 1. Initial node 2. Final node 3. Connection type
+		// Later on for cases with more arrows between the same nodes. This needs to be changed to store the number of the arrow as well.
+        try {
+            const decodedID = atob(base64ID);
+            const match = decodedID.match(/^\((.*?)\)\[\d+\]$/);
+            if (!match) return null;
+
+            const connectionMatch = match[1].match(/(.+?) (.+?) (.+)/);
+            if (!connectionMatch) return null;
+
+            const startNode = connectionMatch[1];
+            const connectionType = connectionMatch[2];
+            const endNode = connectionMatch[3];
+
+            return {
+                startNode: btoa(startNode),
+                endNode: btoa(endNode),
+                connectionType: connectionType
+            };
+        } catch (e) {
+            return null;
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        processSVG();
+        document.querySelectorAll(".diagram-node").forEach(node => {
+			// Check if a node is hovered over
+            node.addEventListener("mouseover", function() { highlightNode(this.id); });
+            node.addEventListener("mouseout", function() { resetHighlight(); });
+        });
+    });
+</script>
+</svg></svg>
