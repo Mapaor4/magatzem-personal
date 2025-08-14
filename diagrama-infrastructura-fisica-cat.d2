@@ -1,0 +1,94 @@
+# Configuració
+
+direction: right
+
+# Definicions
+
+notion: Física UB Wikiblog {
+  shape: image
+  icon: https://unpkg.com/@lobehub/icons-static-svg@1.62.0/icons/notion.svg
+}
+
+drive: Drive Física UB {
+  shape: image
+  icon: https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg
+}
+
+vector-db: RAG (VectorDB) {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/database-management.svg
+}
+
+pdfs: PDF Database {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/network-folder.svg
+}
+
+astro: Astro static site {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/Astro.svg
+}
+
+markdown: Exportació Markdown {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/markdown.svg
+}
+
+web-notion: Web ub.fisica.cat {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor/tw-emojis/tw-emojis-svgs/1f4da.svg
+}
+
+servidor: Servidor fitxers.fisica.cat {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/server.svg
+}
+
+hipatia-backend: Hipatia Backend {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/server-setting.svg
+}
+
+hipatia-frontend: Hipatia Frontend {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/hipatia.svg
+}
+
+web-drive: Web drive.fisica.cat {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/mapaor4/magatzem-personal/icones/network-cloud.svg
+}
+
+# Connexions
+
+drive -> servidor: Google Drive API
+
+notion -> web-notion: react-notion-x
+
+notion -> markdown: Semestralment
+
+markdown -> astro
+
+markdown -> vector-db
+
+notion -> servidor: Notion webhook
+
+pdfs <-> servidor
+
+servidor -> notion: URLs
+
+servidor -> web-notion: URLs
+
+servidor -> vector-db
+
+vector-db -> hipatia-backend
+
+hipatia-frontend <-> hipatia-backend
+
+servidor -> web-drive: URLs
+
+servidor <- web-drive: Permet pujar nous fitxers
+
+pdfs <- web-drive: Edició de tags
+
+pdfs -> web-drive: Visualitzable gràcies a
